@@ -1,5 +1,6 @@
 # Pymaceuticals-challenge
 Module 5 Challenge CWRU Data Analytics Bootcamp
+
 The file to be graded is the Pymaceuticals Jupyter notebook, please disregard the file with the "_starter" in the name.
 
 Two data files were merged; summary statistics were generated. Bar, Pie, and Box Plot Charts were created and Quartiles, IQR, and Outliers were found as directed. 
